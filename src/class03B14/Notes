@@ -1,8 +1,15 @@
 Track your project using Git
   Step 1 decide where you will create the repository
   step 2 Navigate the terminal to the right location. to know this, find the location by right clicking on the project name and click on "properties"
-   step3 initialize the emoty git
+   step3 initialize the empty git repo using git init
+   Step 4 git status using.....untracked files ----red colour
+   Step 5 Add all files to the staging area (so that git starts tracking them)------> git add .
+   Step 6 Add all the files in the repository----->
 
 
-Disadvantages of placing repo in Src
-it will not be able to track any thing els
+
+
+
+
+Disadvantages of placing repository in Src
+1. it will not be able to track any thing else apart
