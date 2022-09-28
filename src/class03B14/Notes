@@ -1,0 +1,8 @@
+Track your project using Git
+  Step 1 decide where you will create the repository
+  step 2 Navigate the terminal to the right location. to know this, find the location by right clicking on the project name and click on "properties"
+   step3 initialize the emoty git
+
+
+Disadvantages of placing repo in Src
+it will not be able to track any thing els
