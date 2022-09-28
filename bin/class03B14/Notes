@@ -4,7 +4,7 @@ Track your project using Git
    step3 initialize the empty git repo using git init
    Step 4 git status using.....untracked files ----red colour
    Step 5 Add all files to the staging area (so that git starts tracking them)------> git add .
-   Step 6 Add all the files in the repository----->
+   Step 6 Add all the files in the repository-----> git commit -m "enter a message"
 
 
 
