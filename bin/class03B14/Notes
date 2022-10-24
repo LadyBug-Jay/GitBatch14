@@ -2,7 +2,7 @@ Track your project using Git( First Time)
   Step 1 decide where you will create the repository. Always create repository in the project folder
   step 2 Navigate the terminal to the right location. to know this, find the location by right clicking on the project name and click on "properties"
   step3 initialize the empty git repo using----> git init
-   Step 4 git status using-----> Git status. This will display untracked files ---->red colour
+   Step 4 git status using-----> git status This will display untracked files ---->red colour
    Step 5 Add all files to the staging area (so that git starts tracking them)------> git add .
    Step 6 Add all the files in the repository-----> git commit -m "enter a message". This command will make copies from staging area to Repo
 
@@ -10,7 +10,7 @@ Track your project using Git( First Time)
                 Sending our data to github
                 
       For every local repo you must create a unique remote repository          
-Step 1 create a new remote repository on github(github>>Your repositories>>new>>name it>>make it public)
+Step 1 create a new remote repository on github (github>>Your repositories>>new>>name it>>make it public)
 Step 2 Establish the connection by using command----> git remote add origin URL
 Step 3 check that connection has been established------> git remote -v (You should see fetch, push)
 
@@ -22,14 +22,13 @@ Step 5 to send your codes or data to github----> git push -u origin main (You sh
 The second time you will need to push to the same repo if you make changes
 git add .
 git commit -m ""
-git push (Since its a modification you dont need -u origin main)
+git push (Since its a modification you do not need -u origin main)
 
 
-        Disadvantages of placing repository in Src
+        Disadvantages of placing repository in src
 1. it will not be able to track any thing else apart
 
-       MY Git Token
-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
+      
 
             Deleteling a repo
 
